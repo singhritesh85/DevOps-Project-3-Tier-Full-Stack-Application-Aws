@@ -1,1 +1,1 @@
-# DevOps-Project-3-Tier-Full-Stack-Application-Aws
+# DevOps-Project-3-Tier-YelpCamp-Application-Aws
